@@ -1,0 +1,95 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ LSi7izJmdNdxzUWLVC4SGpypCpupnd7VYHmjU8+6p8T2BVGogDMfbyNjIZ0xYxQr
+ g4Mh+dROPavODJ3WfV+TrA==
+
+<SEC-DOCUMENT>0000903423-08-000878.txt : 20081031
+<SEC-HEADER>0000903423-08-000878.hdr.sgml : 20081031
+<ACCEPTANCE-DATETIME>20081031140045
+ACCESSION NUMBER:		0000903423-08-000878
+CONFORMED SUBMISSION TYPE:	13F-NT
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20080930
+FILED AS OF DATE:		20081031
+DATE AS OF CHANGE:		20081031
+EFFECTIVENESS DATE:		20081031
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			GOLDEN APPLE INCOME INC
+		CENTRAL INDEX KEY:			0001269529
+		IRS NUMBER:				000000000
+
+	FILING VALUES:
+		FORM TYPE:		13F-NT
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	028-10596
+		FILM NUMBER:		081153854
+
+	MAIL ADDRESS:	
+		STREET 1:		5650 YONGE ST
+		STREET 2:		5TH FLR
+		CITY:			TORONTO
+		STATE:			A6
+		ZIP:			99999
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>13F-NT
+<SEQUENCE>1
+<FILENAME>ont-13fga_1030.txt
+<TEXT>
+                                 UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                             WASHINGTON, D.C. 20549
+
+                                    FORM 13F
+
+                              FORM 13F COVER PAGE
+
+Report for the Calendar Year or Quarter Ended: September 30, 2008
+Check here if Amendment [ ]; Amendment Number:
+This Amendment (Check only one.):  [ ] is a restatement.
+                                   [ ] adds new holdings entries.
+
+Institutional Investment Manager Filing this Report:
+Name:    Golden Apple Income Inc.
+Address: 5650 Yonge Street
+         Toronto, ON M2M 4H5
+
+Form 13F File Number: 028-10596
+
+The institutional investment manager filing this report and the person by whom
+it is signed hereby represent that the person signing the report is authorized
+to submit it, that all information contained herein is true, correct and
+complete, and that it is understood that all required items, statements,
+schedules, lists, and tables, are considered integral parts of this
+submission.
+
+Person Signing this Report on Behalf of Reporting Manager:
+
+Name:  Roger Barton
+Title: Vice President
+Phone: 416.730.5321
+
+Signature,               Place,                and Date of Signing:
+/s/ Roger Barton         Toronto, Ontario      Friday, October 31, 2008
+
+Report Type (Check only one.): [ ]  13F HOLDINGS REPORT.
+                               [X]  13F NOTICE.
+                               [ ]  13F COMBINATION REPORT.
+
+List of Other Managers Reporting for this Manager:
+
+Form 13F File Number:        Name
+028-10597                    Ontario Teachers' Pension Plan Board
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----
